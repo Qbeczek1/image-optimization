@@ -1,0 +1,17 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "description": "Image optimization tool - JPG to WebP converter with scaling and filters",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["image", "optimization", "webp", "sharp"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.0"
+  }
+}
+
